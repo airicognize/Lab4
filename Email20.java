@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Email2.0{
+public class Email20{
   public static void main(String[] args) {
     
     //I tried doing things such as boolean foundDot = true on my variable list but that wouldn't work either..
