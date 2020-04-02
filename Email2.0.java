@@ -3,7 +3,7 @@ import java.util.*;
 public class Email2.0{
   public static void main(String[] args) {
     
-    //I tried doing things such asboolean foundDot = true on my variable list but that wouldn't work either..
+    //I tried doing things such as boolean foundDot = true on my variable list but that wouldn't work either..
     boolean foundDot,foundAt,foundDotDot;
 
    int atlocation = 0;
