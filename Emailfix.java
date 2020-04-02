@@ -13,7 +13,8 @@ public class Emailfix{
    Scanner sc = new Scanner(System.in);
    System.out.println("input");
    String email = sc.nextLine();
-
+  
+    //Thank you for this tip, I was so happy it worked ;-;
    boolean foundAt = false;
    boolean foundDot = false;
    boolean foundDotDot = false;
@@ -29,11 +30,11 @@ public class Emailfix{
 
                 }
              }
-
+              //Had to make it so that it would say it's invalid and made sure it doesn't repeat it after every char...
              if (confirm == 0) {
                System.out.println("This email is Invalid");
              }
-             //I'm using true to verify to see if it correctly identifies the @..
+             //Ind
                   if (foundAt == true) {
                   for (int i = atlocation; i < email.length(); i++ ) {
                     if (email.charAt(i) == '.') {
