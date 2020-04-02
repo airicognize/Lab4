@@ -30,7 +30,10 @@ public class Emailfix{
 
                 }
              }
-              //Had to make it so that it would say it's invalid and made sure it doesn't repeat it after every char...
+              /*Had to make it so that it would say it's invalid and made sure it doesn't repeat it after every char...
+               * Weirdly enough... Using confirm++ at first but then changing it back to 1 for the next bit seemed to help me doing so?
+               */
+               
              if (confirm == 0) {
                System.out.println("This email is Invalid");
              }
