@@ -1,4 +1,4 @@
-/*I'll be doing the javadoc as soon as I can be sure this is right!
+/*
  * @author Jeremie Guerchon
  * a program that receives a word as an input from the user and checks if it is a palindrome: if it reads the same backward as forward
  *
