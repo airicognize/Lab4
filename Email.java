@@ -16,7 +16,7 @@ public class Email{
 
    Scanner sc = new Scanner(System.in);
    System.out.println("input");
-   String email = sc.nextLine();
+   String email = sc.next();
 
    boolean foundAt = false;
    boolean foundDot = false;
