@@ -1,3 +1,8 @@
+
+LOOK AT EMAILFINAL!!! I HAD TO FIX SOMETHING AND UPLOADED THE FINAL VERSION!!
+
+
+
 //I'll be doing the javadoc as soon as I can be sure this is right!
 
 import java.util.*;
