@@ -62,7 +62,7 @@ public class Emailfix{
                           System.out.println("This email is invalid");
                         }
 
-                        if (foundDotDot == true && foundDot == true && foundAt == true) {
+                        if (foundDot == true || foundDotDot == true && foundAt == true) {
                           System.out.println("This email is valid");
                         } else {
                           System.out.println("This email is invalid");
