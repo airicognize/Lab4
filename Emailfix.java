@@ -57,7 +57,6 @@ public class Emailfix{
                         }
                           if (foundDotDot == true && dotdotlocation < emaillength) {
                             confirm = 3;
-                            // I can't seem to make it so that it detects the two dots
                         } else {
                           System.out.println("This email is invalid");
                         }
