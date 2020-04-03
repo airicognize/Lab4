@@ -31,7 +31,7 @@ public class GuessGame{
           guess = sc.nextInt();
          } else if (yesno == 2) {
            nomore = true;
-           System.out.println("Goodbye");
+           System.out.println("Goodbye, you've failed too many times lmao.");
          }
 
     }
