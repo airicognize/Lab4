@@ -6,7 +6,7 @@
  */
 import java.util.*;
 
-public class Emailfinal{
+public class Email{
   public static void main(String[] args) {
 
    int atlocation = 0;
