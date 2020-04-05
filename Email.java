@@ -67,9 +67,9 @@ public class Email{
                           System.out.println("This email is invalid");
                         }
 
-   } else {
-     System.out.println("This email is invalid");
-    }
+        } else {
+       System.out.println("This email is invalid");
+        }
   }
  }
 }
