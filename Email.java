@@ -1,5 +1,5 @@
 /**
- * @author Jeremie Guerchon
+ * @author 
  * a program that validates emails.
  *
  *
