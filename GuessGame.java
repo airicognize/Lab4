@@ -1,5 +1,5 @@
 /**
- * @author Jeremie Guerchon
+ * @author 
  * a program that generates a random number between 0 and 100 and asks the user to guess it. The user can have at maximum 10 trials. 
  * If the number is guessed, the user should be asked if she/he wants to play again. If the number is not guessed and 10 trials were used, 
  * the user is not lucky, the program should terminate with a proper message.
