@@ -1,7 +1,8 @@
 /**
- * @author
+ * 
  * A program that reads the first 3 doubles from a text file and makes an average of them.
  *
+ *  @author Jeremie Guerchon
  */
 
 import java.util.*;
