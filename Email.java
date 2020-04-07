@@ -1,8 +1,8 @@
 /**
- * @author 
+ *
  * a program that validates emails.
  *
- *
+ *  @author Jeremie Guerchon
  */
 import java.util.*;
 
