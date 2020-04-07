@@ -1,4 +1,9 @@
-//CREATE JAVADOC!!!
+/** 
+ * This program asks the user to guess the number the program picked between 1-100. If failed, they have 10 chances until
+ * the program shuts down.
+ *
+ * @author Jeremie Guerchon
+ */
 
 import java.util.*;
 import java.lang.*;
